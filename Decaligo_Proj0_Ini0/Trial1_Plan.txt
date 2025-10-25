@@ -1,0 +1,2 @@
+Trial 0 only plotted points.
+Trial 1 will plot the actual vectors.
